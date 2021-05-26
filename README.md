@@ -1,4 +1,3 @@
-# RGB_Color_Board
-Tkinter GUI based RGB color assisstance tool for color exploration, collection, etc.
-开发设想：
-1. 控件模仿微软surface dial，鼠标滚轮控制
+
+项目#1：RGB Color Board
+简介：使用RGB值获取颜色，可以将喜欢的颜色保存为HTML文档，可以读取展示于画布上
