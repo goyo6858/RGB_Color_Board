@@ -1,0 +1,12 @@
+#目标：创建GUI
+
+from tkinter import *
+
+#定义类和方法
+#创建窗口和对象
+#程序
+
+root=Tk()
+
+#循环
+mainloop()
